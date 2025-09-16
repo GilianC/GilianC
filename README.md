@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Salut ! Je suis **Gilian Cannier**
 
-<!--
-**GilianC/GilianC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **3ème année MMI** (Métiers du Multimédia et de l’Internet) passionné par le développement web, la VR et les projets créatifs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mes Projets
+
+### 1️⃣ Réseau social
+💻 **Techs** : React, Symfony  
+📌 Un réseau social complet avec fonctionnalités d’authentification, publication et interaction entre utilisateurs.
+
+### 2️⃣ Jeu VR
+🕶 **Techs** : A-Frame, Three.js  
+🎮 Une expérience immersive en réalité virtuelle directement dans le navigateur !
+
+### 3️⃣ Application de prise de notes
+📝 **Techs** : Next.js, Node.js, PostgreSQL  
+📂 Une application web pour organiser, créer et gérer ses notes efficacement.
+
+---
