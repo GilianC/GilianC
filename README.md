@@ -7,7 +7,7 @@
 ## 🚀 Mes Projets
 
 ### 1️⃣ Réseau social
-💻 **Techs** : React, Symfony  
+💻 **Techs** : React, Symfony, Next  
 📌 Un réseau social complet avec fonctionnalités d’authentification, publication et interaction entre utilisateurs.
 
 ### 2️⃣ Jeu VR
